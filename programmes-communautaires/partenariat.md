@@ -12,6 +12,7 @@ contributors: [luke, ben, nekot]
 
 :::note
 Actuellement, le programme partenaire n'accepte plus de nouvelles candidatures. [En savoir plus](https://dfr.gd/FermeturePartenaire).
+Pour les serveurs partenaires, les transferts de propriété ne sont plus acceptés, sauf si le propriétaire accepte la suppression du badge Partenaire du compte et du serveur. Par ailleurs, les comptes partenaires compromis sans possibilité de récupération sont verrouillés et leur badge Partenaire est retiré.
 :::
 
 Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
