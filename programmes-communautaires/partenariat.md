@@ -5,7 +5,11 @@ keywords:
   - serveur
   - serveurs
   - partner
-  - partenaires
+keywords:
+- serveur
+- partner
+- partenaire
+- communauté
 description: Les serveurs partenaires sur Discord
 contributors: [luke, ben, nekot]
 ---
