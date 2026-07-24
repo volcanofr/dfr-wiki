@@ -76,7 +76,7 @@ Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité a
 
 ![Salon vocal 384 kbps exemple](https://i.dfr.gg/xqm.png)
 
-### Un badge exclusif
+### Badge exclusif
 
 En plus des avantages de partenaire en tant qu'utilisateur, un badge sera affiché à gauche du nom du serveur.
 
