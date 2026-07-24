@@ -1,15 +1,10 @@
 ---
 title: Serveur partenaire
 keywords:
-  - discord
   - serveur
-  - serveurs
   - partner
-keywords:
-- serveur
-- partner
-- partenaire
-- communauté
+  - partenaire
+  - communauté
 description: Les avantages et obligations des serveurs partenaires sur Discord
 contributors: [luke, ben, nekot, nova]
 ---
