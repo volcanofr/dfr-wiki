@@ -87,3 +87,4 @@ Exemple d'un badge de serveur partenaire:
 Un [badge](/wiki/compte-utilisateur/personnalisation-profil/badges) sera également donné au propriétaire d'un serveur partenaire:
 
 ![Badge user Partner](https://i.dfr.gg/C0F.png)
+
