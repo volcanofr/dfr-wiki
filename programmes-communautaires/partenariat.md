@@ -1,5 +1,5 @@
 ---
-title: Les serveurs partenaires
+title: Serveur partenaire
 keywords:
   - discord
   - serveur
