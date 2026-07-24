@@ -24,7 +24,7 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
 ## Devenir un serveur partenaire
 
-### Activer la "Communauté de serveur" :
+### Activer la "Communauté de serveur"
 
  ![Activer la communauté du serveur](https://i.dfr.gg/y2u.png)
  
