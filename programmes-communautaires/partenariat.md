@@ -10,7 +10,7 @@ keywords:
 - partner
 - partenaire
 - communauté
-description: Les serveurs partenaires sur Discord
+description: Les avantages et obligations des serveurs partenaires sur Discord
 contributors: [luke, ben, nekot]
 ---
 
