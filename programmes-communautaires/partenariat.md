@@ -22,7 +22,7 @@ Pour les serveurs partenaires, les transferts de propriété ne sont plus accept
 Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
 Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
-## Comment devenir un serveur partenaire ?
+## Devenir un serveur partenaire
 
 ### Activer la "Communauté de serveur" :
 
