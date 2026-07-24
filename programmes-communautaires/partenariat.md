@@ -58,13 +58,13 @@ Dans cet article, nous découvrirons le partenariat discord pour le serveur.
  
 ## Fonctionnalités des serveurs partenaires
  
-### Une bannière d'invitation de serveur personnalisée 
+### Bannière d'invitation de serveur personnalisée 
  
 La bannière personnalisée se trouve à l'arrière plan d'une invitation, elle s'obtient également au niveau 1 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
 ![Bannière d'invitation de serveur](https://i.dfr.gg/Y06.png)
 
-### Une URL personnalisée
+### URL personnalisée
 
 L'url personnalisée permet d'avoir un lien d'invitation sur le modèle `discord.gg/{lien}`, disponible à partir du niveau 3 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
