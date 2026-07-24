@@ -11,7 +11,7 @@ keywords:
 - partenaire
 - communauté
 description: Les avantages et obligations des serveurs partenaires sur Discord
-contributors: [luke, ben, nekot]
+contributors: [luke, ben, nekot, nova]
 ---
 
 :::note
