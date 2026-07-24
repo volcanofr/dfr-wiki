@@ -70,7 +70,7 @@ L'url personnalisée permet d'avoir un lien d'invitation sur le modèle `discord
 
 ![Url de serveur personnalisée](https://i.dfr.gg/2w7.png)
 
-### Des salons vocaux avec une meilleure qualité audio
+### Meilleure qualité audio des salons vocaux
 
 Le partenariat avec Discord permet d'avoir des salons vocaux avec une qualité audio qui peut s'élever jusqu'à 384 kbps.
 
