@@ -2,8 +2,10 @@
 title: Logs de serveur
 keywords:
   - serveur
+  - journal
   - log
   - configuration
+  - modération
 description: Le journal des actions de modération et configuration des serveurs Discord
 contributors: [luke, karal, dreas, chaussette, volcanofr]
 ---
@@ -68,6 +70,47 @@ Les logs enregistrent différentes actions :
 - Supprimer le fil
 
 ### Actions associées aux rôles
+
+- Création de rôle
+- Mise à jour de rôle (modification du nom, de la couleur, etc.)
+- Suppression de rôle
+
+### Actions associées au processus d'acceuil
+
+- Créer une question de personnalisation
+- Mettre à jour une question de personnalisation
+- Supprimer une question de personnalisation
+- Créer un processus d'accueil
+- Mettre à jour le processus d'accueil
+
+### Actions associées au guide du serveur
+
+- Créer un guide du serveur
+- Mettre à jour le guide du serveur
+
+### Actions associées aux invitations
+
+- Création d'invitation
+- Mise à jour d'invitation
+- Suppression d'invitation
+
+### Actions associées aux webhooks
+
+- Création de webhook
+- Mise à jour de webhook
+- Suppression de webhook
+
+### Actions associées aux émojis
+
+- Création d'émojis
+- Mise à jour d'émojis
+- Supprimer l'émoji
+
+### Actions associées aux bots
+
+- Ajouter un bot
+
+### Actions associées aux fils
 
 - Création de rôle
 - Mise à jour de rôle (modification du nom, de la couleur, etc.)
