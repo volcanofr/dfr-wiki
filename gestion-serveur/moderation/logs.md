@@ -159,12 +159,14 @@ Les logs enregistrent différentes actions :
 - Désépingler le message
 
 ### Autres actions
+
 - Ajout de bots
 - Création, modification et suppression d’invitations
 - Création, modification et suppression de webhooks
 - Création, modification et suppression d’emojis
 - Création, modification et suppression d’intégrations
 - Mise à jour des permissions des commandes d’application
+
 ### Actions associées aux intégrations
 
 - Créer une intégration
