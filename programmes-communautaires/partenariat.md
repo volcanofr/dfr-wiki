@@ -2,59 +2,61 @@
 title: Serveur partenaire
 keywords:
   - serveur
-  - partner
   - partenaire
+  - partner
   - communauté
 description: Les avantages et obligations des serveurs partenaires sur Discord
-contributors: [luke, ben, nekot, nova]
+contributors: [luke, ben, nekot, nova, volcanofr]
 ---
 
 :::note
-Actuellement, le programme partenaire n'accepte plus de nouvelles candidatures. [En savoir plus](https://dfr.gd/FermeturePartenaire).
-Pour les serveurs partenaires, les transferts de propriété ne sont plus acceptés, sauf si le propriétaire accepte la suppression du badge Partenaire du compte et du serveur. Par ailleurs, les comptes partenaires compromis sans possibilité de récupération sont verrouillés et leur badge Partenaire est retiré.
+Actuellement, le programme partenaire n'accepte plus de nouvelles candidatures. [En savoir plus](/blog/2023/10/25/fin-programmes-communautaires).
 :::
 
-Le partenariat discord est, pour nombre d'utilisateurs  discord, un _eldorado_, de par les avantages obtenus par les partenaires discord, mais aussi pour les serveurs partenaires, mais aussi par une reconnaissance officielle de discord pour une communauté. 
+Le partenariat Discord est, pour nombre d'utilisateurs de l'application, un _eldorado_, de par les avantages obtenus par le programme, mais aussi par une reconnaissance officielle de Discord pour une communauté.
 Dans cet article, nous découvrirons le partenariat discord pour le serveur.
 
 ## Devenir un serveur partenaire
 
 ### Activer la "Communauté de serveur"
 
- ![Activer la communauté du serveur](https://i.dfr.gg/y2u.png)
- 
- Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
- Pour cela, il faut:
- - Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
- - Activer l'analyse des contenus médias des membres.
- - Paramétrer les notifications par défaut sur @mentions uniquement.
- - Retirer la permission à tout le monde de mentionner @everyone.
- - Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
- - Définir un salon des règles/conditions d'utilisation et un salon pour les annonces discord.
- 
- :::tip
- Plus d'informations sur les [serveurs communautaires](/wiki/gestion-serveur/outils-communautaires).
- :::
+![Activer la communauté du serveur](https://i.dfr.gg/y2u.png)
+
+Il faut tout d'abord configurer la communauté, Discord guide les utilisateurs tout au long de l'opération. 
+Pour cela, il faut:
+
+- Activer dans les paramètres de sécurité le niveau "Faible" : une adresse e-mail
+- Activer l'analyse des contenus médias des membres.
+- Paramétrer les notifications par défaut sur @mentions uniquement.
+- Retirer la permission à tout le monde de mentionner @everyone.
+- Accepter la [charte d'utilisation des serveurs communautaires](https://support.discord.com/hc/fr/articles/360035969312-Lignes-de-conduite-des-serveurs-communautaires) de discord.
+- Définir un salon des règles/conditions d'utilisation et un salon pour les annonces discord.
+
+:::tip
+Plus d'informations sur les [serveurs communautaires](/wiki/gestion-serveur/outils-communautaires).
+:::
 
 ### Postuler
- Une fois le serveur communautaire activé, il faut se rendre dans l'onglet "Partner program".
- 
- ![Partner Program](https://i.dfr.gg/86q.png)
- 
- Les conditions suivantes sont nécessaires pour postuler :
- - Avoir au moins 500 membres.
- - Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
- - Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
- - Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
- 
- Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
- 
- Une fois le formulaire de candidature complété et envoyé, l'équipe discord va traiter cette candidature et donner une réponse, favorable ou défavorable, à cette dernière.
- 
+
+Une fois le serveur communautaire activé, il faut se rendre dans l'onglet "Partner program".
+
+![Partner Program](https://i.dfr.gg/86q.png)
+
+Les conditions suivantes sont nécessaires pour postuler :
+
+- Avoir au moins 500 membres.
+- Avoir au moins 50 personnes actives (communiquant) sur le serveur par semaine.
+- Avoir au moins 100 visiteurs, qui ne participent pas forcément, mais qui "visitent le serveur".
+- Sur les utilisateurs "visitant" le serveur, il est nécessaire qu'au minimum 20% d'entre-eux ne quittent pas le serveur, et ce chaque semaine sur une durée totale de 8 semaines ; c'est ce qui est appelé la "rétention".
+
+Les statistiques de serveurs sont disponibles ici : https://discord.com/developers/servers/
+
+Une fois le formulaire de candidature complété et envoyé, l'équipe discord va traiter cette candidature et donner une réponse, favorable ou défavorable, à cette dernière.
+
 ## Fonctionnalités des serveurs partenaires
- 
+
 ### Bannière d'invitation de serveur personnalisée 
- 
+
 La bannière personnalisée se trouve à l'arrière plan d'une invitation, elle s'obtient également au niveau 1 des [boosts de serveur](/wiki/contenu-payant/boost-serveur).
 
 ![Bannière d'invitation de serveur](https://i.dfr.gg/Y06.png)
@@ -83,3 +85,14 @@ Un [badge](/wiki/compte-utilisateur/personnalisation-profil/badges) sera égalem
 
 ![Badge user Partner](https://i.dfr.gg/C0F.png)
 
+## Propriété du serveur
+
+Le propriétaire du serveur reçoit un [badge partenaire](/wiki/compte-utilisateur/personnalisation-profil/badges#partner) ainsi que [Nitro](/wiki/contenu-payant/abonnements-nitro) sur toute la durée de sa propriété.
+Si le compte est compromis, le serveur peut perdre son statut de partenaire avec tous ses avantages tant serveur qu'utilisateur.
+
+:::
+Discord a annoncé, sur [Discord Admins](https://support.discord.com/hc/articles/5309276245271), l'arrêt de la possibilité de transfert de serveur partenaire.
+Le transfert du serveur mènera à la perte du badge dans la plupart des cas.
+:::
+
+Il est possible de demander le transfert du serveur en faisant un [ticket au support de Discord](https://support.discord.com/hc/fr/requests/new?ticket_form_id=360000029212), en sélectionnant "Demandes Liées au Serveur" puis "Demande de transfert de la propriété d'un serveur".
