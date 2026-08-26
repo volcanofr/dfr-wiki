@@ -4,12 +4,13 @@ keywords:
   - discord
   - tickets
   - signalement
-description: Comment signaler un contenu ou un comportement inapproprié sur Discord.
+description: Le signalement de contenu ou comportement inapproprié sur Discord
 contributors: [wolfyzdbois, antoww]
 short_slug: false
 ---
 
 Discord propose trois options de signalement pour protéger sa communauté :
+
 - Le signalement d'un message
 - Le signalement d'un profil utilisateur
 - Le signalement d'un serveur (disponible uniquement sur mobile)
