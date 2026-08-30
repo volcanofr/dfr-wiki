@@ -6,7 +6,6 @@ keywords:
   - vocal
 description: La réduction des bruits de fond en vocal, avec l'utilisation de Krisp
 contributors: [antoww, volcanofr]
-short_slug: krisp
 ---
 
 Discord possède une fonctionnalité de **filtrage du bruit**.
