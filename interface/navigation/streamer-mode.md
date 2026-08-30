@@ -1,19 +1,24 @@
 ---
 title: Mode Streamer
 keywords:
-  - discord
-  - mode streamer
-  - streamer mode
-description: Mode disponible pour cacher ses informations personelles et couper certains bruits pendant un stream
-contributors: [wolfyzdbois]
+  - stream
+  - mode
+  - live
+  - direct
+description: Mode permettant de cacher ses informations personelles et couper certains bruits pendant un stream
+contributors: [wolfyzdbois, volcanofr]
 ---
 
-Le mode Streamer permet de masquer ses informations personnelles sur la plateforme, ce qui permet d'afficher sa fenêtre sans risque de dévoiler son adresse email, des pseudos, des invitations ou encore l'aperçu des messages privés.
+Le **mode Streamer** permet de masquer ses informations personnelles sur la plateforme et supprimer les sons superflux.
 
-Ce mode permet également de couper toute notification et effets sonores venant de Discord.
+## Fonctionnalité
 
-### Activation
+Une fois activée, l'adresse email de l'utilisateur, les pseudos, les invitations ou encore l'aperçu des messages privés est caché.
+Ce mode permet également de couper tout son de notification venant de Discord, de la même manière que le statut "Ne pas déranger".
 
-Le mode est activable sur ordinateur uniquement, dans les paramètres utilisateur, dans l'onglet "Mode streamer". Une option permet également de l'activer automatiquement lorsqu'on ouvre OBS ou XSplit, deux logiciels de capture vidéo.
+## Activation
+
+Le mode est activable sur ordinateur uniquement, dans les paramètres utilisateur, dans l'onglet "Mode streamer".
+Une option permet également de l'activer automatiquement lorsqu'on ouvre _OBS_ ou _XSplit_, deux logiciels de capture vidéo.
 
 ![Paramètres du mode streamer](https://i.dfr.gg/9AAt.png)
