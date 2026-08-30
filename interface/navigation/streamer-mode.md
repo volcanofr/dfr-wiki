@@ -11,7 +11,7 @@ contributors: [wolfyzdbois, volcanofr]
 
 Le **mode Streamer** permet de masquer ses informations personnelles sur la plateforme et supprimer les sons superflux.
 
-## Fonctionnalité
+## Fonctionnalités
 
 Une fois activée, l'adresse email de l'utilisateur, les pseudos, les invitations ou encore l'aperçu des messages privés est caché.
 Ce mode permet également de couper tout son de notification venant de Discord, de la même manière que le statut "Ne pas déranger".
