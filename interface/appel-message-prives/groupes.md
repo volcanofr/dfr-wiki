@@ -17,31 +17,31 @@ Le nombre d'utilisateurs maximum au sein d'un groupe est de 10, ou 25 avec [Nitr
 
 ## Création d'un groupe privé
 
-Depuis l'interface des **Messages privés**, l'utilisateur peut créer un nouveau groupe depuis l'cône `+`.
+Depuis l'interface des **Messages privés**, l'utilisateur peut créer un nouveau groupe depuis l'icône `+`.
 Un bouton situé à gauche de la **recherche dans les MP** permet lui aussi de créer une nouvelle discussion commune.
 
 ![Création d'un groupe](https://i.dfr.gg/Oq7.png)
 
 ## Invitation
 
-Il est possible d'y inviter des amis ansi que les membres de serveurs en communs, serveurs n'ayant pas fermé les messages privés.
+Il est possible d'y inviter des amis ainsi que les membres de serveurs en commun, serveurs n'ayant pas fermé les messages privés.
 Un lien d'invitation est aussi obtenable.
 
 ![Invitation dans un groupe](https://i.dfr.gg/4PVN.png)
 
 ## Discussion
 
-De la même manière que dans les messages privés classiques, les participants peuvent envoyer des GIFs, stickers, peuvent épingler des messages et sont notifiés sur chaque nouveau d'entre eux.
+De la même manière que dans les messages privés classiques, les participants peuvent envoyer des GIFs et des stickers, épingler des messages et sont notifiés à chaque nouveau message.
 
 ## Personnalisation
 
-A la création du groupe, l'utilisateur créateur peut configurer l'**icône** et le **nom** au démarrage du groupe.
+À la création du groupe, l'utilisateur créateur peut configurer l'**icône** et le **nom** au démarrage du groupe.
 Par la suite, tous ses participants peuvent eux aussi modifier ces paramètres via divers boutons :
 
 - Au clic droit sur le nom du groupe dans la liste des discussions
 - Tout en haut de la discussion
 - Via un lien disponible à chaque modification de personnalisation
-- En cliquant sur le nom du groupe, à côté de la barre de recherche ou lancement de conversation
+- En cliquant sur le nom du groupe, à côté de la boîte "recherche ou lance une conversation"
 
 ![Tous les boutons de modification disponibles](https://i.dfr.gg/6zsv.png)
 
@@ -61,13 +61,13 @@ Le [propriétaire du groupe](#propriétaire) est le seul à pouvoir forcer le re
 ## Propriétaire
 
 Le propriétaire du groupe peut transférer sa propriété à un autre participant en cliquant droit sur son nom d'utilisateur.
-Quand il quitte le groupe, la propriété est automatiquement attribué à un autre participant.
+Quand il quitte le groupe, la propriété est automatiquement attribuée à un autre participant.
 
 ## Quitter un groupe privé
 
 N'importe quel participant peut quitter son groupe à tout moment en faisant un clic droit sur le nom du groupe puis sélectionner "Quitter le groupe".
 La discussion disparaîtra alors de sa liste des conversations.
 
-Une option permet à l'utilisateur de quitter sans en informer les autres membres, sans mentionner.
+Une option permet à l'utilisateur de quitter sans en informer les autres membres, sans les mentionner.
 
 ![Quitter un groupe](https://i.dfr.gg/crsy.png)
