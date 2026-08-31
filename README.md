@@ -25,7 +25,7 @@ Vous pouvez retrouver sur notre wiki de nombreux articles sur des sujets divers,
 ## Contribuer au Wiki
 
 Nous ouvrons la modification de notre banque de données à tous ceux qui souhaitent y contribuer, et ce simplement grâce au fonctionnement de GitHub.
-Besoin de modifier un article ou suggérer la création d'une page ? On vous explique comment faire plus bas ! :smile:
+Besoin de modifier un article ou suggérer la création d'une page ? On vous explique comment faire plus bas ! 😄
 
 ### Règles de contribution
 
