@@ -11,15 +11,13 @@ Vous pouvez retrouver sur notre wiki de nombreux articles sur des sujets divers,
     <a href="https://patreon.com/fr">
         <img alt="Nous soutenir" src="https://img.shields.io/static/v1?label=Patreon&message=Nous%20soutenir&color=FF424D&style=for-the-badge&logo=patreon" />
     </a>
-</div>
-<div align="center" style="padding-top: 30px;">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://i.dfr.gg/banner-text.png" />
-        <source media="(prefers-color-scheme: light)" srcset="https://i.dfr.gg/banner-text.png" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.dfr.gg/banner-light.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://i.dfr.gg/banner-dark.svg" />
         <img
             alt="Bannière représentant le logo et le nom du projet"
-            src="https://i.dfr.gg/banner-text.png"
-            style="max-width: 800px;"
+            src="https://i.dfr.gg/banner-dark.svg"
+            width="800"
         />
     </picture>
 </div>
