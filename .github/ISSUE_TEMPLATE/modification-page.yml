@@ -1,25 +1,29 @@
-name: Suggestion d'ajout
-description: Suggérez un nouvel article à ajouter au Wiki Discord FR
-title: "[Suggestion]: Ajout de l'article 'TITRE'"
-labels: ["ajout"]
+name: Suggestion de modification
+description: Suggérez un article à modifier sur le Wiki Discord FR
+title: "[Suggestion]: Modification de l'article 'TITRE'"
+labels: ["modification"]
 body:
   - type: input
     id: title
     attributes:
       label: Titre de l'article
-      description: Quel devrait être le titre de l'article que vous souhaitez voir sur le Wiki ?
+      description: Quel est le titre de l'article que vous souhaitez modifier sur le Wiki ?
       placeholder: ex. Abonnements Nitro
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
-      label: Description
-      description: Qu'est-ce cet article devrait contenir comme information·s ?
+      label: Problématique
+      description: Qu'est-ce cet article devrait contenir comme nouvelle information·s ?
       placeholder: |
-        ex. - Liste des abonnements Nitro disponibles
-        - Avantages de chaque abonnement
-        - Comment s'abonner
+        ex. Nouvel abonnement :
+
+        - Nitro Basic
+
+        Ancien abonnement supprimé :
+
+        - Nitro Classic
     validations:
       required: true
   - type: textarea
@@ -36,7 +40,7 @@ body:
     attributes:
       label: Avant de valider
       options:
-        - label: J'ai bien vérifié que l'article n'existait pas déjà, et n'a pas déjà été suggéré
+        - label: J'ai bien vérifié que l'article existe, ne contient pas déjà l'information, et que la modification n'a pas déjà été suggérée
           required: true
         - label: J'ai bien lu et accepté les règles de contribution du Wiki
           required: true
