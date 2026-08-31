@@ -1,10 +1,13 @@
 ---
-title: Krisp et la réduction de bruit
+title: Profil d'entrée audio
 keywords:
   - krisp
-  - reduction de bruit
+  - bruit
   - vocal
-description: La réduction des bruits de fond en vocal, avec l'utilisation de Krisp
+  - audio
+  - paramètres
+  - utilisateur
+description: Les paramètres d'entrée audio, les traitements que Discord réalise sur le son de votre micro
 contributors: [antoww, volcanofr]
 ---
 
@@ -40,7 +43,7 @@ Sélection manuelle ou détection automatique de la sensibilité, bascule entre 
 
 Sélection de l'algorithme de suppression du bruit, parmi les choix suivants :
 
-- Krisp, l'algorithme fait par [Krisp](https://krisp.ai/)
+- Krisp, l'algorithme fait par [Krisp](#fonctionnement-de-krisp)
 - Standard
 - Aucun, désactive la suppression de bruit par défaut
 
@@ -97,7 +100,5 @@ En cliquant sur l'icône de réduction de bruit, située dans la barre d'outils 
 
 ## Fonctionnement de Krisp
 
-Krisp utilise des algorithmes avancés de traitement du signal afin d'identifier et supprimer les bruits de fond tout en préservant la clarté de la voix.
+[Krisp](https://krisp.ai/) utilise des algorithmes avancés de traitement du signal afin d'identifier et supprimer les bruits de fond tout en préservant la clarté de la voix.
 Il fonctionne en temps réel, ce qui signifie que les utilisateurs peuvent bénéficier d'une réduction de bruit instantanée pendant leurs appels vocaux.
-
-
